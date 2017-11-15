@@ -1,0 +1,9 @@
+{
+    "date": "Wed Nov 15 14:24:23 CET 2017",
+    "name": "Reflex",
+    "format": "xml",
+    "description": "",
+    "repository": {},
+    "version": "0.1",
+    "dependencies": [{"Simplicite": "4.0"}]
+}

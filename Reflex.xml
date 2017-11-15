@@ -6,8 +6,11 @@
 	<data>
 		<mdl_name>Reflex</mdl_name>
 		<mdl_version>0.1</mdl_version>
-		<mdl_url/>
-		<mdl_lastupd>2017-11-15 14:24:23</mdl_lastupd>
+		<mdl_url><![CDATA[{
+  "type": "git",
+  "origin": { "uri": "https://github.com/Campano/simplicite_reflex" }
+}]]></mdl_url>
+		<mdl_lastupd>2017-11-15 15:14:52</mdl_lastupd>
 		<mdl_comment/>
 	</data>
 </object>

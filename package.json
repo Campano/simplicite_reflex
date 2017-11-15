@@ -1,9 +1,12 @@
 {
-    "date": "Wed Nov 15 14:24:23 CET 2017",
+    "date": "Wed Nov 15 15:14:52 CET 2017",
     "name": "Reflex",
     "format": "xml",
     "description": "",
-    "repository": {},
+    "repository": {
+        "origin": {"uri": "https://github.com/Campano/simplicite_reflex"},
+        "type": "git"
+    },
     "version": "0.1",
     "dependencies": [{"Simplicite": "4.0"}]
 }

@@ -239,7 +239,7 @@
 		<obo_refcount>0</obo_refcount>
 		<obo_tree>0</obo_tree>
 		<obo_viewmode>T</obo_viewmode>
-		<obo_historic>0</obo_historic>
+		<obo_historic/>
 		<obo_printable>1</obo_printable>
 		<obo_followlink>1</obo_followlink>
 		<obo_mergeable>0</obo_mergeable>
@@ -293,7 +293,7 @@
 		<obo_refcount>0</obo_refcount>
 		<obo_tree>0</obo_tree>
 		<obo_viewmode>T</obo_viewmode>
-		<obo_historic>0</obo_historic>
+		<obo_historic/>
 		<obo_printable>1</obo_printable>
 		<obo_followlink>1</obo_followlink>
 		<obo_mergeable>0</obo_mergeable>
